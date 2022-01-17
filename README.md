@@ -5,6 +5,8 @@ This was my very first attempt at writing any code, before I even knew what C/C+
 and is the reason why I changed my degree from Automotive/Mechanical Engineering to Software Engineering. For this reason, as terrible as this code is,
 this is my favorite project.
 
+## Background
+
 While I was an Automotive Engineering student at Arizona State University, my engineering team and I were tasked with making an interactive game for a 2nd
 grade classroom. We decided to make a STEM Bingo/Trivia game using an Arduino, and a constructed "self-contained holder" for the game. I wish I still had
 photos of the whole project. The container was a Cube, with the Arduino and LCD Shield inlayed into the surface, and inside the cube was a series of compartments
